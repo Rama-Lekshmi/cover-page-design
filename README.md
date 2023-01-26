@@ -127,7 +127,7 @@ Then create appropiate views for your templates and provide the urls for them in
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>Pandidharan G R</b></p>
+               <p><b>Rama E.K> Lekshmi</b></p>
             </div>
             <div class="publisher">
                 PACKT
